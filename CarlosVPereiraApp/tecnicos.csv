@@ -1,0 +1,21 @@
+id,nome,especializacao,disponibilidade
+1,Técnico 1,Geral,Disponível
+2,Técnico 2,Alvenaria,Indisponível
+3,Técnico 3,Elétrica,Indisponível
+4,Técnico 4,Elétrica,Disponível
+5,Técnico 5,Pintura,Indisponível
+6,Técnico 6,Pintura,Disponível
+7,Técnico 7,Alvenaria,Disponível
+8,Técnico 8,Geral,Indisponível
+9,Técnico 9,Geral,Indisponível
+10,Técnico 10,Alvenaria,Disponível
+11,Técnico 11,Pintura,Disponível
+12,Técnico 12,Alvenaria,Indisponível
+13,Técnico 13,Geral,Indisponível
+14,Técnico 14,Pintura,Indisponível
+15,Técnico 15,Elétrica,Disponível
+16,Técnico 16,Elétrica,Disponível
+17,Técnico 17,Hidráulica,Disponível
+18,Técnico 18,Elétrica,Indisponível
+19,Técnico 19,Pintura,Indisponível
+20,Técnico 20,Hidráulica,Disponível
